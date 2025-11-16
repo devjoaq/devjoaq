@@ -20,5 +20,5 @@
 
 ---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=devjoaq&theme=radical&hide_border=false)
+![Joaco's GitHub stats](https://github-readme-stats.vercel.app/api?username=devjoaq&show_icons=true&theme=radical)
 
