@@ -3,7 +3,7 @@
 ![Line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1FF&center=false&vCenter=true&width=435&lines=Frontend+Developer;Analista+de+Sistemas;Creando+soluciones+web" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1FF&center=false&vCenter=true&width=435&lines=Frontend+Developer;Analista+de+Sistemas" alt="Typing SVG" />
 </a>
 
 <br/>
