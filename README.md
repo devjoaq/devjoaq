@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Joaco and I'm 19 years old.
+# Joaquín Antonino
+
+---
+Frontend Developer
+---
 
 💻 I'm a System Analyst student and Frontend Developer from Argentina.  
 ⚡ Passionate about building web applications and always learning something new.  
