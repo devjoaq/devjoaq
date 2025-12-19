@@ -1,7 +1,9 @@
 # Joaquín Antonino
 
 ---
+
 Frontend Developer
+
 ---
 
 💻 I'm a System Analyst student and Frontend Developer from Argentina.  
