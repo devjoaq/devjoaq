@@ -4,12 +4,6 @@
 
 ![Line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-<br>
-
-> 💻 Estudiante de Analista de Sistemas apasionado por el desarrollo web, la lógica y el pixel-perfect.
-
-<br>
-
 ## 🚀 Tech Stack
 
 <p align="left">
