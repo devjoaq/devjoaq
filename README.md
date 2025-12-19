@@ -31,8 +31,8 @@
 
 <br>
 
-## 📬 Contacto
 
+<h3 align="left">📬 Contacto</h3>
 <p align="left">
   <a href="mailto:antoninojoaquin06@gmail.com">
     <img src="https://img.shields.io/badge/Email-antoninojoaquin06@gmail.com-000?style=for-the-badge&logo=gmail&logoColor=00d1ff" alt="Email" />
