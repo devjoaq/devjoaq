@@ -26,11 +26,8 @@
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00d1ff" alt="GitHub" />
 </p>
 
-<br>
-
 ![Line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-<br>
 
 ## 📬 Contacto
 
