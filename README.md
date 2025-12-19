@@ -6,7 +6,7 @@
 
   <p>
     <img src="https://img.shields.io/badge/Frontend-Developer-00d1ff?style=for-the-badge&logo=react&logoColor=000000&labelColor=00d1ff" alt="Frontend Developer" />
-    <img src="https://img.shields.io/badge/System_Analyst_Student-0d1117?style=for-the-badge&logo=academic&logoColor=00d1ff&labelColor=0d1117" alt="Student" />
+    <img src="https://img.shields.io/badge/System_Analyst_Student-0d1117?style=for-the-badge&logo=academic&logoColor=00d1ff&labelColor=0d11ff" alt="Student" />
     <img src="https://img.shields.io/badge/Argentina-00d1ff?style=for-the-badge&logo=google-maps&logoColor=000000&labelColor=00d1ff" alt="Argentina" />
   </p>
 
