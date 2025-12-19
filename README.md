@@ -4,7 +4,7 @@
 
 ![Line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-<h1>🚀 Tech Stack<h1>
+## 🚀 Tech Stack
 
 <h3 align="left">Lenguajes</h3>
 <p align="left">
