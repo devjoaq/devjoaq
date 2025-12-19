@@ -1,16 +1,14 @@
-# Joaquín Antonino
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00D1FF&center=false&vCenter=true&width=1000&lines=Frontend+Developer;Analista+de+Sistemas;Learning+Every+Day&prefix=Joaquín+Antonino+%7C+" alt="Typing SVG" />
+</a>
 
 ![Line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1FF&center=false&vCenter=true&width=435&lines=Frontend+Developer;Analista+de+Sistemas" alt="Typing SVG" />
-</a>
+<br>
 
-<br/>
+> 💻 Estudiante de Analista de Sistemas apasionado por el desarrollo web, la lógica y el pixel-perfect.
 
-> 💻 **Sobre mí:** Estudiante de Analista de Sistemas apasionado por el desarrollo web, la lógica y el pixel-perfect.
-
-<br/>
+<br>
 
 ## 🚀 Tech Stack
 
@@ -24,6 +22,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00d1ff" alt="React" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=00d1ff" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=00d1ff" alt="SQLite" />
 </p>
 
 <p align="left">
@@ -41,16 +40,12 @@
 
 <p align="left">
   <a href="mailto:antoninojoaquin06@gmail.com">
-    <img src="https://img.shields.io/badge/-antoninojoaquin06%40gmail.com-000?style=for-the-badge&logo=gmail&logoColor=00d1ff" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Envíame_un_correo-000?style=for-the-badge&logo=gmail&logoColor=00d1ff" alt="Email" />
   </a>
-  
-  <br>
-  
   <a href="https://www.linkedin.com/in/joaquin-antonino/">
-    <img src="https://img.shields.io/badge/-linkedin-000?style=for-the-badge&logo=linkedin&logoColor=00d1ff" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Conectemos-000?style=for-the-badge&logo=linkedin&logoColor=00d1ff" alt="LinkedIn" />
   </a>
 </p>
 
 <br>
-
 ![Line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
