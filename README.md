@@ -6,7 +6,7 @@
   </a>
 </div>
 
-<div style="width: 100%; height: 4px; background-color: #00d1ff;"></div>
+![Line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ## 🚀 Tech Stack
 
