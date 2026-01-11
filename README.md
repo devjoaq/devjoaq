@@ -6,7 +6,7 @@
   </a>
 </div>
 
-![Line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+<hr style="height: 4px; background-color: #00d1ff; border: none;" />
 
 ## 🚀 Tech Stack
 
